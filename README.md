@@ -7,7 +7,7 @@
 
 #What did you do particularly well?
 
-///I believe I created the digrams for the system particularly well. In addition, to designing the diagrams, I would like to shed light on 
+///I believe I created the diagrams for the system particularly well. In addition, to designing the diagrams, I would like to shed light on the business requirements document that is attached. The articulation of the description of the client's needs for the system is exceptional. 
 
 #If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 
@@ -19,4 +19,4 @@
 
 
 #How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
-///For designing software, recognizing technical, functional, and non-functional requirements, in order to fully understand what he client needs the system to do.
+///For designing software, recognizing technical, functional, and non-functional requirements, in order to fully understand what the client needs the system to do.
